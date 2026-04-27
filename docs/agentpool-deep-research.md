@@ -2,7 +2,7 @@
 > 作者：wangxu
 ## 摘要
 
-AgentPool核心价值不是“再实现agent 框架”，而是把不同来源、不同运行时、不同协议的 agent 统一到一个可配置、可编排、可暴露的 orchestration hub 中。基本定位概括为：
+AgentPool把不同来源、不同运行时、不同协议的 agent 统一到一个可配置、可编排、可暴露的 orchestration hub 中。基本定位概括为：
 
 > 用 YAML 定义 heterogeneous agents，内部统一成 `MessageNode`，外部通过 ACP、MCP、A2A、AG-UI、OpenCode、OpenAI-compatible API 等协议暴露，并支持 PydanticAI、Claude Code、Codex、OpenCode、ACP 外部 agent 等多种 agent 协作。
 
