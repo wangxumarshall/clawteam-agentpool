@@ -1,5 +1,5 @@
 # AgentPool：多协议异构Agent编排
-
+> 作者：wangxu
 ## 摘要
 
 AgentPool核心价值不是“再实现agent 框架”，而是把不同来源、不同运行时、不同协议的 agent 统一到一个可配置、可编排、可暴露的 orchestration hub 中。基本定位概括为：
