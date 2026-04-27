@@ -1,5 +1,5 @@
 # AgentHub：面向下一代生产级多智能体框架的技术方案
-
+>作者：wangxu
 ## 0. 摘要
 
 AgentPool 已经证明了一个关键方向：多智能体系统的核心问题不是“如何再封装一个 LLM 调用”，而是如何把 PydanticAI、Claude Code、Codex、OpenCode、ACP agent、AG-UI agent、MCP 工具、A2A 对等智能体、OpenAI-compatible API 等异构能力，统一纳入一个可配置、可编排、可观测、可恢复的运行时。
